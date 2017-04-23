@@ -9,7 +9,7 @@ body {
 .parallax {
     /* The image used */
     height: 100%;
-    background-image: url('../images/detroit2.jpg');
+    background-image: url('../images/leaves_sm.jpg');
 
     /*Create the parallax scrolling effect */
     background-attachment: fixed;
