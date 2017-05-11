@@ -64,13 +64,17 @@ span {
    color: rgb(214, 104, 72);
 }
 
-/*---------------Beginning of css for projects section layout---------------------- */
+/*---------------Beginning of css for coming soon section layout---------------------- */
 
 body{
   font-family:Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
   font-size:14px;
   line-height:1.4285em;
   color: rgba(0,0,0,.87);
+}
+
+.eventTitle {
+  color: white;
 }
 
 .thread-parent img {
