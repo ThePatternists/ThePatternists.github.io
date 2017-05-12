@@ -67,19 +67,17 @@ span {
 
 /*---------------Beginning of css for coming soon section layout---------------------- */
 
-/*body{
-  font-family:Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
-  font-size:14px;
-  line-height:1.4285em;
-  color: rgba(0,0,0,.87);
-}*/
-
 h2 {
   color: white;
 }
 
 .eventTitle {
   color: white;
+}
+
+.container2 {
+  background-color: rgba(0,0,0,.4);
+  height: 100%;
 }
 
 .thread-parent img {
