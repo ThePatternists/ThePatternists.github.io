@@ -20,7 +20,7 @@ body {
 
 .parallax3 {
    /* The image used */
-    height: 200%;
+    height: 250%;
     background-image: url('../images/subway.jpg');
 
     /*Create the parallax scrolling effect */
