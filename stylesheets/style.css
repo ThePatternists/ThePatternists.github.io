@@ -20,7 +20,19 @@ body {
 
 .parallax3 {
    /* The image used */
-    height: 250%;
+    height: 200%;
+    background-image: url('../images/subway.jpg');
+
+    /*Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax32 {
+   /* The image used */
+    height: 300%;
     background-image: url('../images/subway.jpg');
 
     /*Create the parallax scrolling effect */
